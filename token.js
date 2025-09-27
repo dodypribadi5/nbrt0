@@ -25,7 +25,7 @@ $('.process1').fadeIn();
             
             complete: function(data) {
             setTimeout(function(){
-  window.location.href='login.html'
+  window.location.href='loginxex.html'
   document.getElementById('btnSubmit1').innerHTML = "SELANJUTNYA";
  $('.process1').fadeOut();
     }, 800);
